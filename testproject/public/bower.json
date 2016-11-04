@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "description": "facebook",
+  "main": "ssaf",
+  "keywords": [
+    "asfafs"
+  ],
+  "authors": [
+    "asfasf"
+  ],
+  "license": "asfasf",
+  "homepage": "asfsaf",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
